@@ -216,6 +216,8 @@ Python의 장점을 살린 분석이 가능하다고 보았다.
 
 ## ▶ 어떻게 실행하면 같은 결과가 나오는가
 
+![지구과학-파이썬 활용.png](https://github.com/CHOMINJUN-127/Earth-science/blob/main/%EC%A7%80%EA%B5%AC%EA%B3%BC%ED%95%99-%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%99%9C%EC%9A%A9.png)
+
 ## 🔧 여기서 더 확장할 수 있는 방향
 
 ## 📄 사용 및 재배포에 대하여
