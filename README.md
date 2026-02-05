@@ -1,5 +1,4 @@
 # Seismic Risk Visualization Dashboard
-
 **- 지진 진도와 취약성 지표를 기반으로 국가별 지진 위험을 시각화한 데이터 분석 대시보드**
 
 ## 🔍 이 프로젝트를 시작하게 된 배경
