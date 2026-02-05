@@ -1,4 +1,4 @@
-# Earth-science
+# Seismic Risk Visualization Dashboard
 
 ## 🔍 이 프로젝트를 시작하게 된 배경
 
